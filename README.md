@@ -7,7 +7,7 @@ W sprawozdaniu zostały wykonane wszystkie ćwiczenia obwiązkowe.
 * [Zadanie 5Z1](#Zadanie-5Z1)
 * [Zadanie 5Z2](#Zadanie-5Z2)
 * [Status](#status)
-* [Kontakt](#kontact)
+* [Kontakt](#kontakt)
 
 ## Zadanie 5Z1
 Podczas wykonywania tego został wykonany skrypt `skrypt.sh`, który znajduje się w repozytorium. 
