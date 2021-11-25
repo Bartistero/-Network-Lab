@@ -18,12 +18,12 @@ Podczas wykonywania tego został wykonany skrypt `skrypt2.sh`, który znajduje s
 
 W celu sprawdzenia nadania aliasu należy wywołać komende `Docker inspect`, a przy użyciu potoków, wykorzystać program jq w celu szybszego wydobycia interesującej informacji. 
 
-#Kontener D1:
+# Kontener D1:
 > `docker inspect D1 | jq '.[].NetworkSettings.Networks.bridge1.Aliases`
 > 
 ![present screenshot](./img/D1.png)
 
-#Kontener D2: 
+# Kontener D2: 
 
 >`docker inspect D2 | jq '.[].NetworkSettings.Networks.bridge1.Aliases'`
 
@@ -33,7 +33,7 @@ Oraz
 
 ![present screenshot](./img/D2.png)
 
-#Kontener S1 
+# Kontener S1 
 
 >`docker inspect S1 | jq '.[].NetworkSettings.Networks.bridge2.Aliases'`
 
