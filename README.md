@@ -4,10 +4,10 @@ W sprawozdaniu zostały wykonane wszystkie ćwiczenia obwiązkowe.
 >link Github: https://github.com/Bartistero/-Network-Lab                            
 
 ## Tabela zawartości
-* [Zadanie 5Z1](#Zadanie-1,2)
-* [Zadanie 5Z2](#zadanie-3)
+* [Zadanie 5Z1](#Zadanie-5Z1)
+* [Zadanie 5Z2](#Zadanie-5Z2)
 * [Status](#status)
-* [Kontakt](#contact)
+* [Kontakt](#kontact)
 
 ## Zadanie 5Z1
 Podczas wykonywania tego został wykonany skrypt `skrypt.sh`, który znajduje się w repozytorium. 
